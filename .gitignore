@@ -1,0 +1,31 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Laravel
+/vendor
+.env
+/storage/*.key
+/storage/logs
+/storage/framework/sessions
+/storage/framework/views
+/storage/framework/cache
+
+# Composer
+composer.lock
+
+# Docker
+docker/*.log
+*.pid
+
+# React
+frontend/build
+frontend/.env
+
+# IDEs
+*.idea
+*.vscode
+
+# OS
+.DS_Store
+Thumbs.db
